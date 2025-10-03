@@ -1,0 +1,66 @@
+# ninja log v6
+18	331	7809457466992120	Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+18	331	7809457466992120	Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+334	4401	7809457470142984	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	2aaf574e53cddb70
+18	331	7809457466992120	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+18	331	7809457466992120	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+1054	4648	7809456084617263	CMakeFiles/Assignment_Lecture_4.dir/main.cpp.obj	72f1359196ed4fa6
+1060	4730	7809456084683558	CMakeFiles/Assignment_Lecture_4.dir/drawingwindow.cpp.obj	a21fba38934af8d7
+1048	4694	7809456084549445	CMakeFiles/Assignment_Lecture_4.dir/Assignment_Lecture_4_autogen/mocs_compilation.cpp.obj	ec33a2702508b3ce
+4401	4871	7809457510818757	Assignment_Lecture_4.exe	b7dd49d9ab0ee213
+13	58	7808768483253232	CMakeFiles/clean.additional	9bf4c46894e2abbc
+58	77	7808768483707340	clean	3488f43e00a248a4
+47	374	7809459539706249	Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+47	374	7809459539706249	Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+47	374	7809459539706249	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+47	374	7809459539706249	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+376	4760	7809459542997172	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	2aaf574e53cddb70
+4760	5280	7809459586841568	Assignment_Lecture_4.exe	b7dd49d9ab0ee213
+59	363	7809459949365549	Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+59	363	7809459949365549	Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+59	363	7809459949365549	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+59	363	7809459949365549	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+364	4734	7809459952419606	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	2aaf574e53cddb70
+4734	5181	7809459996109753	Assignment_Lecture_4.exe	b7dd49d9ab0ee213
+66	335	7809462400667138	Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+66	335	7809462400667138	Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+66	335	7809462400667138	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+66	335	7809462400667138	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+337	4628	7809462403371763	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	2aaf574e53cddb70
+4628	5057	7809462446294157	Assignment_Lecture_4.exe	b7dd49d9ab0ee213
+74	381	7809467097583497	Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+74	381	7809467097583497	Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+74	381	7809467097583497	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+74	381	7809467097583497	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+383	4807	7809467100659753	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	2aaf574e53cddb70
+4807	5264	7809467144906999	Assignment_Lecture_4.exe	b7dd49d9ab0ee213
+61	396	7809467761909230	Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+61	396	7809467761909230	Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+61	396	7809467761909230	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+61	396	7809467761909230	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+398	4173	7809467765280500	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	2aaf574e53cddb70
+4173	4603	7809467803023840	Assignment_Lecture_4.exe	b7dd49d9ab0ee213
+61	379	7809469775090965	Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+61	379	7809469775090965	Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+61	379	7809469775090965	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+61	379	7809469775090965	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+381	4924	7809469778293297	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	2aaf574e53cddb70
+4924	5376	7809469823712242	Assignment_Lecture_4.exe	b7dd49d9ab0ee213
+23	1104	7809516287879172	Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+23	1104	7809516287879172	Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+23	1104	7809516287879172	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+23	1104	7809516287879172	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+1115	5221	7809516289367205	CMakeFiles/Assignment_Lecture_4.dir/main.cpp.obj	72f1359196ed4fa6
+1106	5250	7809516289268355	CMakeFiles/Assignment_Lecture_4.dir/Assignment_Lecture_4_autogen/mocs_compilation.cpp.obj	ec33a2702508b3ce
+1122	5261	7809516289428660	CMakeFiles/Assignment_Lecture_4.dir/drawingwindow.cpp.obj	a21fba38934af8d7
+1129	5650	7809516289508732	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	2aaf574e53cddb70
+5651	6160	7809516334720546	Assignment_Lecture_4.exe	b7dd49d9ab0ee213
+59	1064	7809529508004982	Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+59	1064	7809529508004982	Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+59	1064	7809529508004982	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/timestamp	6388b6c403ce71d9
+59	1064	7809529508004982	C:/Users/rico/OneDrive/Documents/Kuliah/semester 123/Komputer Grafik/Assignment_Lecture_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Assignment_Lecture_4_autogen/mocs_compilation.cpp	6388b6c403ce71d9
+1072	4777	7809529509338674	CMakeFiles/Assignment_Lecture_4.dir/main.cpp.obj	72f1359196ed4fa6
+1065	4886	7809529509264644	CMakeFiles/Assignment_Lecture_4.dir/Assignment_Lecture_4_autogen/mocs_compilation.cpp.obj	ec33a2702508b3ce
+1079	4907	7809529509412227	CMakeFiles/Assignment_Lecture_4.dir/drawingwindow.cpp.obj	a21fba38934af8d7
+1087	5238	7809529509491694	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	2aaf574e53cddb70
+5238	5689	7809529550989910	Assignment_Lecture_4.exe	b7dd49d9ab0ee213
